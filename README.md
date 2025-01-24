@@ -1,0 +1,2 @@
+# MinimalSway
+Minimal sway config
